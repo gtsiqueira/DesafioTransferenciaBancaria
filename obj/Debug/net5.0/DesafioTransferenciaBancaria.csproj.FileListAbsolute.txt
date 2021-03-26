@@ -1,0 +1,16 @@
+C:\Users\jose.siqueira\Documents\app\estudo-Digital-Innovation-One\DesafioTransferenciaBancaria\bin\Debug\net5.0\DesafioTransferenciaBancaria.exe
+C:\Users\jose.siqueira\Documents\app\estudo-Digital-Innovation-One\DesafioTransferenciaBancaria\bin\Debug\net5.0\DesafioTransferenciaBancaria.deps.json
+C:\Users\jose.siqueira\Documents\app\estudo-Digital-Innovation-One\DesafioTransferenciaBancaria\bin\Debug\net5.0\DesafioTransferenciaBancaria.runtimeconfig.json
+C:\Users\jose.siqueira\Documents\app\estudo-Digital-Innovation-One\DesafioTransferenciaBancaria\bin\Debug\net5.0\DesafioTransferenciaBancaria.runtimeconfig.dev.json
+C:\Users\jose.siqueira\Documents\app\estudo-Digital-Innovation-One\DesafioTransferenciaBancaria\bin\Debug\net5.0\DesafioTransferenciaBancaria.dll
+C:\Users\jose.siqueira\Documents\app\estudo-Digital-Innovation-One\DesafioTransferenciaBancaria\bin\Debug\net5.0\ref\DesafioTransferenciaBancaria.dll
+C:\Users\jose.siqueira\Documents\app\estudo-Digital-Innovation-One\DesafioTransferenciaBancaria\bin\Debug\net5.0\DesafioTransferenciaBancaria.pdb
+C:\Users\jose.siqueira\Documents\app\estudo-Digital-Innovation-One\DesafioTransferenciaBancaria\obj\Debug\net5.0\DesafioTransferenciaBancaria.csprojAssemblyReference.cache
+C:\Users\jose.siqueira\Documents\app\estudo-Digital-Innovation-One\DesafioTransferenciaBancaria\obj\Debug\net5.0\DesafioTransferenciaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.siqueira\Documents\app\estudo-Digital-Innovation-One\DesafioTransferenciaBancaria\obj\Debug\net5.0\DesafioTransferenciaBancaria.AssemblyInfoInputs.cache
+C:\Users\jose.siqueira\Documents\app\estudo-Digital-Innovation-One\DesafioTransferenciaBancaria\obj\Debug\net5.0\DesafioTransferenciaBancaria.AssemblyInfo.cs
+C:\Users\jose.siqueira\Documents\app\estudo-Digital-Innovation-One\DesafioTransferenciaBancaria\obj\Debug\net5.0\DesafioTransferenciaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\jose.siqueira\Documents\app\estudo-Digital-Innovation-One\DesafioTransferenciaBancaria\obj\Debug\net5.0\DesafioTransferenciaBancaria.dll
+C:\Users\jose.siqueira\Documents\app\estudo-Digital-Innovation-One\DesafioTransferenciaBancaria\obj\Debug\net5.0\ref\DesafioTransferenciaBancaria.dll
+C:\Users\jose.siqueira\Documents\app\estudo-Digital-Innovation-One\DesafioTransferenciaBancaria\obj\Debug\net5.0\DesafioTransferenciaBancaria.pdb
+C:\Users\jose.siqueira\Documents\app\estudo-Digital-Innovation-One\DesafioTransferenciaBancaria\obj\Debug\net5.0\DesafioTransferenciaBancaria.genruntimeconfig.cache
